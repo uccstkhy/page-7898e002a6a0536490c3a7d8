@@ -1,0 +1,123 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "76f01ee6a74af755fdd471ae",
+  "owner": "uccstkhy",
+  "repo": "page-7898e002a6a0536490c3a7d8",
+  "title": "44F网络",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "7898e002a6a0536490c3a7d8",
+      "a": "44F网络",
+      "b": "",
+      "entity": "44F网络",
+      "brand": "44F网络",
+      "separator": "",
+      "path": "index.html",
+      "hash": "2acee49a903aec6fe1171f92f9fb5ada2dd4468a51fe9b2a4c2cf86e90ead2a3",
+      "content": {
+        "keyword1": "44F网络",
+        "keyword2": "",
+        "primary_entity": "44F网络",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "44F网络提供优质VPN加速器和机场订阅服务，支持多种套餐，助力高速网络体验和流媒体解锁。",
+          "AI_DESCRIPTION": "44F网络提供优质VPN加速器和机场订阅服务，支持多种套餐，助力高速网络体验和流媒体解锁。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "\n\n\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    <style>\n        * { box-sizing: border-box; }\n        body {\n            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;\n            line-height: 1.6;\n            color: #333;\n            background-color: #f8f9fa;\n            margin: 0;\n            padding: 0;\n        }\n        header {\n            background: linear-gradient(135deg, #0a2540, #00bfff);\n            color: white;\n            padding: 1rem;\n            text-align: center;\n        }\n        main {\n            max-width: 1200px;\n            margin: 0 auto;\n            padding: 2rem 1rem;\n        }\n        h1 {\n            color: #00d4ff;\n            font-size: 2.5rem;\n            margin: 0;\n        }\n        h2 {\n            color: #0a2540;\n            margin: 2rem 0 1rem;\n            font-size: 1.8rem;\n        }\n        .card {\n            background: #ffffff;\n            border: 2px solid #00bfff;\n            border-radius: 8px;\n            padding: 1.5rem;\n            margin: 1rem 0;\n            box-shadow: 0 4px 12px rgba(0, 183, 255, 0.15);\n        }\n        .grid {\n            display: grid;\n            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));\n            gap: 1.5rem;\n        }\n        button {\n            background: #00bfff;\n            color: white;\n            border: none;\n            padding: 0.75rem 1.5rem;\n            border-radius: 4px;\n            cursor: pointer;\n            font-size: 1rem;\n        }\n        button:hover {\n            background: #00a0cc;\n        }\n        details {\n            background: #ffffff;\n            border: 1px solid #ddd;\n            border-radius: 8px;\n            margin: 1rem 0;\n            padding: 1rem;\n        }\n        summary {\n            font-weight: bold;\n            cursor: pointer;\n            list-style: none;\n            font-size: 1.1rem;\n        }\n        summary::-webkit-details-marker {\n            display: none;\n        }\n        p { margin: 0.75rem 0; }\n        ol { padding-left: 1.5rem; }\n        ol li { margin: 0.75rem 0; }\n        a { color: #00bfff; text-decoration: none; }\n        a:hover { text-decoration: underline; }\n    </style>\n\n\n    <header>\n        <h1>44F网络</h1>\n    </header>\n    <main>\n        <section>\n            <h2>品牌简介</h2>\n            <p>44F网络是一款专业的网络加速服务，提供稳定高效的VPN加速器和机场订阅解决方案。通过先进的加速技术，让您的上网体验更快、更稳定。</p>\n        </section>\n        <section>\n            <h2>使用场景</h2>\n            <p>44F网络适用于日常上网、在线游戏加速、流媒体内容观看以及远程办公等场景。我们致力于为用户提供优质的网络加速服务，帮助您轻松突破地域限制。</p>\n        </section>\n        <section>\n            <h2>操作指南</h2>\n            <p>使用44F网络操作简单快捷：</p>\n            <ol>\n                <li>访问官网下载客户端</li>\n                <li>完成账号注册与登录</li>\n                <li>选择适合的套餐和节点</li>\n                <li>一键连接服务器享受加速</li>\n            </ol>\n        </section>\n        <section>\n            <h2>套餐选择</h2>\n            {{PLANS_HTML}}\n        </section>\n        <section>\n            {{CLIENTS_HTML}}\n        </section>\n        <section>\n            <h2>常见问题</h2>\n            <details>\n                <summary>如何选择套餐？</summary>\n                <p>根据您的流量需求、设备数量和功能偏好选择基础版、旗舰版或团队版。</p>\n            </details>\n            <details>\n                <summary>支持哪些设备？</summary>\n                <p>支持Windows、macOS、Android、iOS等多种主流设备平台。</p>\n            </details>\n            <details>\n                <summary>如何解锁流媒体？</summary>\n                <p>通过智能节点选择和协议优化，我们能够帮助您轻松解锁Netflix、YouTube等主流流媒体平台。</p>\n            </details>\n            <details>\n                <summary>节点分布如何？</summary>\n                <p>我们的节点池覆盖全球多个地区，提供多种线路供您选择。</p>\n            </details>\n            <details>\n                <summary>客服支持是什么样的？</summary>\n                <p>我们提供7x24在线客服服务，优先工单支持，快速响应您的所有疑问。</p>\n            </details>\n        </section>\n        <section id=\"friends\">\n            <h2>友情链接</h2>\n            <p>更多优质服务可通过以下链接了解：</p>\n            <a href=\"#\">示例链接</a>\n        </section>\n    </main>\n\n",
+          "hash": "23dc94238ce909610342d6b909363c52d854872c4f9b5a7be12979aad70a551f",
+          "seo": {
+            "title": "44F网络 - 优质VPN加速器 | 机场订阅与客户端下载",
+            "keywords": "44F网络,VPN加速器,机场订阅,网络加速,客户端下载,44F网络套餐",
+            "description": "44F网络提供优质VPN加速器和机场订阅服务，支持多种套餐，助力高速网络体验和流媒体解锁。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "renxianjiuye.cn",
+    "host": "b.renxianjiuye.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804"
+  },
+  "friendlinks": [
+    {
+      "host": "renxianjiuye.cn",
+      "url": "https://renxianjiuye.cn/",
+      "label": "Xlinkworld",
+      "apex": "renxianjiuye.cn",
+      "kind": null,
+      "identity": "djhagxej/page-042f52633b4635afab29a21f"
+    },
+    {
+      "host": "00ah6.cn",
+      "url": "https://00ah6.cn/",
+      "label": "SSHUB",
+      "apex": "00ah6.cn",
+      "kind": null,
+      "identity": "erjwrgjj/page-6141714b7a0f264666643c94"
+    },
+    {
+      "host": "01kmph.cn",
+      "url": "https://01kmph.cn/",
+      "label": "WeGo",
+      "apex": "01kmph.cn",
+      "kind": null,
+      "identity": "wbwftxwku/page-680ee6fa2562d6d22ba5a121"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "5d18530657376dfc4c84e2b95d3033a2d4520180aaf5b6fd77fc3d0afc2c8d8c",
+    "sitemap.xml": "a750cb6885d49d68876069e8aadd35f9bbd2715727f7d07eecbd69742f7d197e",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "93a7287333712c796287cb2ef313ad32d18814ee836e12de8127b28b6736acd0",
+    "robots.txt": "30f6f04ee4e97ad949c233d41d1778c41fdd7b2ce76f40054e9e85e98003a236",
+    "6865c0140f70e5d4a0ead40e3f654a81.txt": "a40ccb946e7146836f09612be906d0b2d8c8a8d61a305e91afc8fa90147fdd7c"
+  },
+  "revision": "e4405a222d045f6288f686905b748a003048aefd18aeb6c4f240451eb71b76a6"
+}
